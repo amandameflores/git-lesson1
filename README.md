@@ -34,3 +34,4 @@ https://git-scm.com/download
 * `git checkout` // manipula as linhas do tempo;
 * `git merge` // unir linhas do tempo;
 * `git push` // envia alterações locais para o repositório remoto;
+
