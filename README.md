@@ -25,6 +25,8 @@ https://git-scm.com/download
 
 - [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
 
+- [x] Você precisa recuperar algo deletado.
+
 
 * `git init` // inicia a linha do tempo;
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo;
@@ -36,4 +38,6 @@ https://git-scm.com/download
 * `git checkout` // manipula as linhas do tempo;
 * `git merge` // unir linhas do tempo;
 * `git push` // envia alterações locais para o repositório remoto;
+* `git clone` // clonar um projeto /repositório;
+* `git pull` // puxa do repositório remoto;
 
